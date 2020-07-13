@@ -1,0 +1,15 @@
+.Card {
+    margin: 25px;
+    padding: auto;
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    background: #ecf0f3;
+    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #ffffff;
+}
+
+.Card img {
+    max-width: 100px;
+    max-height: 100px;
+}
